@@ -1,0 +1,3 @@
+[build]
+  command = "./install_dependencies.sh"
+  publish = "_site"
